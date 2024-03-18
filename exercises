@@ -1,4 +1,4 @@
-// Push workout
+
 {
   "name": "Barbell Bench Press - Medium Grip",
   "force": "push",
@@ -440,5 +440,506 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+
+"name": "Barbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.",
+    "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Barbell Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lats",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Stand in front of a loaded barbell.",
+    "While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.",
+    "While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.",
+    "Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.",
+    "Perform the amount of repetitions prescribed in the program."
+  ],
+  "category": "strength",
+
+"name": "Barbell Rear Delt Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["biceps", "lats", "middle back"],
+  "instructions": [
+    "Stand up straight while holding a barbell using a wide (higher than shoulder width) and overhand (palms facing your body) grip.",
+    "Bend knees slightly and bend over as you keep the natural arch of your back. Let the arms hang in front of you as they hold the bar. Once your torso is parallel to the floor, flare the elbows out and away from your body. Tip: Your torso and your arms should resemble the letter \"T\". Now you are ready to begin the exercise.",
+    "While keeping the upper arms perpendicular to the torso, pull the barbell up towards your upper chest as you squeeze the rear delts and you breathe out. Tip: When performed correctly, this exercise should resemble a bench press in reverse. Also, refrain from using your biceps to do the work. Focus on targeting the rear delts; the arms should only act as hooks.",
+    "Slowly go back to the initial position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Barbell Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
+    "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps.",
+    "Slowly return to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Chin-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "forearms", "middle back"],
+  "instructions": [
+    "Grab the pull-up bar with the palms facing your torso and a grip closer than the shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, keep your torso as straight as possible while creating a curvature on your lower back and sticking your chest out. This is your starting position. Tip: Keeping the torso as straight as possible maximizes biceps stimulation while minimizing back involvement.",
+    "As you breathe out, pull your torso up until your head is around the level of the pull-up bar. Concentrate on using the biceps muscles in order to perform the movement. Keep the elbows close to your body. Tip: The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second of squeezing the biceps in the contracted position, slowly lower your torso back to the starting position; when your arms are fully extended. Breathe in as you perform this portion of the movement.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+
+ "name": "Close-Grip EZ Bar Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up with your torso upright while holding an E-Z Curl Bar at the closer inner handle. The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar. The elbows should be close to the torso. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.",
+    "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Close-Grip Front Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+    "As you have both arms extended in front of you - while holding the bar at the chosen grip width - bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary (only the arms should move). The forearms should do no other work except for holding the bar; therefore do not try to pull the bar down using the forearms.",
+    "After a second in the contracted position, while squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.",
+    "6. Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Close-Grip Standing Barbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a barbell with both hands, palms up and a few inches apart.",
+    "Stand with your torso straight and your head up. Your feet should be about shoulder width and your elbows close to your torso. This will be your starting position. Tip: You will keep your upper arms and elbows stationary throughout the movement.",
+    "Curl the bar up in a semicircular motion until the forearms touch your biceps. Exhale as you perform this portion of the movement and contract your biceps hard for a second at the top. Tip: Avoid bending the back or using swinging motions as you lift the weight. Only the forearms should move.",
+    "Slowly go back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Concentration Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Sit down on a flat bench with one dumbbell in front of you between your legs. Your legs should be spread with your knees bent and feet on the floor.",
+    "Use your right arm to pick the dumbbell up. Place the back of your right upper arm on the top of your inner right thigh. Rotate the palm of your hand until it is facing forward away from your thigh. Tip: Your arm should be extended and the dumbbell should be above the floor. This will be your starting position.",
+    "While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: At the top of the movement make sure that the little finger of your arm is higher than your thumb. This guarantees a good contraction. Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in. Caution: Avoid swinging motions at any time.",
+    "Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm."
+  ],
+  "category": "strength",
+
+"name": "Cross Body Hammer Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up straight with a dumbbell in each hand. Your hands should be down at your side with your palms facing in.",
+    "While keeping your palms facing in and without twisting your arm, curl the dumbbell of the right arm up towards your left shoulder as you exhale. Touch the top of the dumbbell to your shoulder and hold the contraction for a second.",
+    "Slowly lower the dumbbell along the same path as you inhale and then repeat the same movement for the left arm.",
+    "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
+  ],
+  "category": "strength",
+
+"name": "Deficit Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Begin by having a platform or weight plates that you can stand on, usually 1-3 inches in height. Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.",
+    "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "category": "powerlifting",
+
+"name": "Dumbbell Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up straight with a dumbbell in each hand at arm's length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position.",
+    "Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Then, inhale and slowly begin to lower the dumbbells back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Dumbbell Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.",
+    "Lift the dumbbells by elevating the shoulders as high as possible while you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the dumbbells. Only the shoulders should be moving up and down.",
+    "Lower the dumbbells back to the original position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Lying Rear Delt Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "While holding a dumbbell in each hand, lay with your chest down on a flat bench.",
+    "Position the palms of the hands in a neutral manner (palms facing your torso) as you keep the arms extended with the elbows slightly bent. This will be your starting position.",
+    "Now raise the arms to the side until your elbows are at shoulder height and your arms are roughly parallel to the floor as you exhale. Tip: Maintain your arms perpendicular to the torso while keeping them extended throughout the movement. Also, keep the contraction at the top for a second.",
+    "Slowly lower the dumbbells to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions and then switch to the other arm."
+  ],
+  "category": "strength",
+
+"name": "Machine Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the seat to the appropriate height and make your weight selection. Place your upper arms against the pads and grasp the handles. This will be your starting position.",
+    "Perform the movement by flexing the elbow, pulling your lower arm towards your upper arm.",
+    "Pause at the top of the movement, and then slowly return the weight to the starting position.",
+    "Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked."
+  ],
+  "category": "strength",
+
+"name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by placing two dumbbells on one side of a flat bench.",
+    "Kneel down on both of your knees so that your body is facing the flat bench.",
+    "Use your arms to grab both of the dumbbells with a pronated grip (palms facing down) and bring them up so that your forearms are resting against the flat bench. Your wrists should be hanging over the edge.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling.",
+    "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by placing two dumbbells on one side of a flat bench.",
+    "Kneel down on both of your knees so that your body is facing the flat bench.",
+    "Use your arms to grab both of the dumbbells with a supinated grip (palms up) and bring them up so that your forearms are resting against the flat bench. Your wrists should be hanging over the edge.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise.",
+    "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Pullups",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Grab the pull-up bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "Pull your torso up until the bar touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+"name": "Reverse Machine Flyes",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the handles so that they are fully to the rear. Make an appropriate weight selection and adjust the seat height so the handles are at shoulder level. Grasp the handles with your hands facing inwards. This will be your starting position.",
+    "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
+    "Keep your arms slightly bent throughout the movement, with all of the motion occurring at the shoulder joint.",
+    "Pause at the rear of the movement, and slowly return the weight to the starting position."
+  ],
+  "category": "strength",
+"name": "Romanian Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Put a barbell in front of you on the ground and grab it using a pronated (palms facing down) grip that a little wider than shoulder width. Tip: Depending on the weight used, you may need wrist wraps to perform the exercise and also a raised platform in order to allow for better range of motion.",
+    "Bend the knees slightly and keep the shins vertical, hips back and back straight. This will be your starting position.",
+    "Keeping your back and arms completely straight at all times, use your hips to lift the bar as you exhale. Tip: The movement should not be fast but steady and under control.",
+    "Once you are standing completely straight up, lower the bar by pushing the hips back, only slightly bending the knees, unlike when squatting. Tip: Take a deep breath at the start of the movement and keep your chest up. Hold your breath as you lower and exhale as you complete the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Romanian Deadlift from Deficit",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Begin standing while holding a bar at armâ€™s length in front of you. You can stand on a raised platform to increase the range of motion.",
+    "Begin by flexing the knees slightly, and then flex at the hip, moving your butt back as far as possible, lowering the torso as far as flexibility allows. The back should remain in absolute extension at all times, and the bar should remain in contact with the legs. If done properly, there should be heavy tension felt in the hamstrings.",
+    "Reverse the motion to return to the starting position."
+  ],
+  "category": "olympic weightlifting",
+
+"name": "Seated Dumbbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on a flat bench with a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
+    "Rotate the palms of the hands so that they are facing your torso. This will be your starting position.",
+    "While holding the upper arm stationary, curl the weights and start twisting the wrists once the dumbbells pass your thighs so that the palms of your hands face forward at the end of the movement. Make sure that you contract the biceps as you breathe out and make sure that only the forearms move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the dumbbells back to the starting position as your breathe in and as you rotate the wrists back to a neutral grip.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Spider Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
+    "Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.",
+    "Make sure that your feet (especially the toes) are well positioned on the floor and place your upper arms on top of the pad located on the inside part of the preacher bench.",
+    "Use your arms to grab the barbell with a supinated grip (palms facing up) at about shoulder width apart or slightly closer from each other.",
+    "Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the barbell back to the starting position as your breathe in. .",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Standing Biceps Cable Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up with your torso upright while holding a cable curl bar that is attached to a low pulley. Grab the cable bar at shoulder width and keep the elbows close to the torso. The palm of your hands should be facing up (supinated grip). This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+    "Slowly begin to bring the curl bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Standing Dumbbell Reverse Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down). Your arms should be fully extended while your feet are shoulder width apart from each other. This is the starting position.",
+    "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+
+"name": "Wide-Grip Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms.",
+    "After a second at the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+
 
 }
